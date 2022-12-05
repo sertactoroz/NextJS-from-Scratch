@@ -20,6 +20,7 @@ img {
   height: auto;
 }
 
+
 h1,
 h2,
 p,
@@ -28,7 +29,7 @@ ul {
 }
 
 ul {
-  padding: 0;
+  padding: 10px;
   list-style: none;
 }
 

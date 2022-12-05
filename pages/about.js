@@ -5,7 +5,7 @@ export default function About() {
 	return <>
 
 		<Head>
-			<title>Hakkında</title>
+			<title>About</title>
 		</Head>
 		<h3>About page</h3>
 		<Link href="/">
@@ -17,7 +17,14 @@ export default function About() {
             font-size: 20px;
             font-weight: 500;
             color: orangered;
+            
           }
+          .p{
+  align-items: center;
+  display: flex;
+  padding: 40px;
+}
+
 		`}</style>
 
 	</>
